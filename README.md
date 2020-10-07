@@ -25,3 +25,9 @@ Go to your Firebase account, then authentication, then signin and enable email/p
 
 - npm run build
 - firebase deploy
+
+![amazonclone-pvs](https://user-images.githubusercontent.com/31938621/95351171-4c698600-0897-11eb-813d-6ce176893e27.png)
+
+
+
+![amazonclone-pvs1](https://user-images.githubusercontent.com/31938621/95351294-7458e980-0897-11eb-899b-45be089407aa.png)
