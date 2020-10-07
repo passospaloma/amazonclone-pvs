@@ -1,6 +1,6 @@
 # AmazonClone-pvs
 
-## This is a amazon clone web application inspired by Amazon created during a test.
+## This is an amazon clone web application inspired by Amazon and created during a test.
 
 It's built on Reactjs.
 
