@@ -1,4 +1,4 @@
-# AmazonClone-pvs
+# AmazonClone-pvs Front and back parts at https://clone-pvs.web.app/
 
 ## This is an amazon clone web application inspired by Amazon and created during a test.
 
